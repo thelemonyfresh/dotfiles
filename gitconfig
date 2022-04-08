@@ -1,0 +1,6 @@
+[user]
+	name = Dan Porter
+	email = dan.porter@shopify.com
+	signingkey = 11D308AEDF2045BB3D97A7D6865A27D937DAC7A6!
+[commit]
+	gpgsign = true
