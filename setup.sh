@@ -1,5 +1,5 @@
-ln -sf ~/dotfiles/.zshrc ~/.zshrc
-ln -sf ~/dotfiles/.git
+ln -sf ~/dotfiles/zshrc ~/.zshrc
+ln -sf ~/dotfiles/gitconfig ~/.gitconfig
 
 GPG_TTY=$(tty)
 
